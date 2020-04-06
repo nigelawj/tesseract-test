@@ -1,0 +1,12 @@
+{
+	"hostname": "DESKTOP-RPP633O",
+	"settings": {
+		"ip": "127.0.0.1",
+		"port": 3333
+	},
+	"tsrConfig": {
+			"lang": "eng",
+			"oem": 1,
+			"psm": 3
+	}
+}
